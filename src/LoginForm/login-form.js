@@ -19,7 +19,7 @@ function LoginForm() {
 
   return (
     <>
-      <div className="border w-25 mt-5 m-auto p-3 ">
+      <div className= "border w-25 mt-5 m-auto p-3 ">
         <h2 className="text-black text-center fst-italic">Instagram</h2> <br></br>
         <div className="mt-3">
           <labal> Phone Number, User Name, or email</labal>
